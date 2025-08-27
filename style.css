@@ -1,0 +1,12 @@
+/* Custom Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header h1 {
+  font-size: 3rem;
+}
+
+.card {
+  border-radius: 12px;
+}
